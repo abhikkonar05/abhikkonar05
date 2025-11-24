@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![logo](https://github.com/abhikkonar05/abhikkonar05/blob/main/Dark%20Blue%20Modern%20General%20Manager%20Business%20Card.png)
+https://github.com/abhikkonar05/abhikkonar05/blob/main/Dark%20Blue%20Modern%20General%20Manager%20Business%20Card.png
 <!--
 **abhikkonar05/abhikkonar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
